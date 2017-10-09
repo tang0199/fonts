@@ -6,6 +6,7 @@
 html{
     font-size: 16px;
     line-height: 1.6;
+    font-family: Bitter, Georgia, serif;
 }
 html,body{
     background-color: #d4d4d4;
@@ -22,12 +23,10 @@ h2{
 }
 nav ul{
     padding:1rem 0;
-    font-family: Bitter, Georgia, serif;
 }
 nav li{
     font-size: 1.999rem;
     list-style-type: none;
-    font-family: Bitter, Georgia, serif;
 }
 nav li>a{
     display: block;
@@ -35,7 +34,6 @@ nav li>a{
     border-bottom: 0.2rem solid black;
     padding: 0.2rem 2rem;
     color: #999;
-    font-family: Bitter, Georgia, serif;
 }
 nav li>a:hover,
 nav li>a:active{
@@ -44,7 +42,6 @@ nav li>a:active{
 p{
     font-size: 1.414rem;
     padding:0.5rem 2rem;
-    font-family: Bitter, Georgia, serif
 }
 main p:last-child{
     padding-bottom: 4rem;
@@ -76,5 +73,4 @@ footer p{
     font-size: 1rem;
     padding: 2rem;
     color: #666;
-    font-family: Bitter, Georgia, serif;
 }
